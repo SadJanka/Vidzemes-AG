@@ -1,2 +1,3 @@
 "User Management Module Overview" 
 "- Add user functionality" 
+"- Delete user functionality" 
