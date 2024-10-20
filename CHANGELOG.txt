@@ -2,3 +2,4 @@
 "- Fixed user management bugs" 
 "- Added task priority management module" 
 "- Updated priority management and fixed test file issues" 
+"- Documented changes related to user guide and test procedures." 
