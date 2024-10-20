@@ -2,3 +2,6 @@
 "- Task report generation" 
 "- User activity report generation" 
 "# Bug fix: Corrected report generation issue" 
+"- Details on how to generate user activity reports with filters" 
+"- Export reports as .csv or .txt files" 
+ feature/reporting

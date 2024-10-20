@@ -1,2 +1,3 @@
 "Version 1.0.0 - Initial Release" 
 "- Fixed user management bugs" 
+"- Added task priority management module" 
