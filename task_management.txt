@@ -1,2 +1,3 @@
 "Task Management Module Overview" 
 "- Add task functionality" 
+"- Edit task functionality" 
