@@ -1,1 +1,3 @@
 "Version 1.0.0 features overview" 
+"User Guide Updates" 
+"- Added troubleshooting section for common errors." 
