@@ -3,3 +3,5 @@
 "- Edit priority levels for existing tasks" 
 "- Assign priority levels to different task categories (bug, feature, improvement)" 
 "- Set default priority levels for new tasks" 
+"- Assign priority levels to different task categories (bug, feature, improvement)" 
+"- Set default priority levels for new tasks" 
