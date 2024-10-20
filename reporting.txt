@@ -1,2 +1,3 @@
 "Reporting Module Overview" 
 "- Task report generation" 
+"- User activity report generation" 
